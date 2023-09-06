@@ -35,3 +35,8 @@ Estamos en la elaboracion de un scrapper de cc's y un checker propio con distint
 Que es un scrapper?
 
 basicamente un scrapper de cc's guiandonos con el algoritmo de luhn nos otorga unas tarjetas generadas validas donde existe la alta posibilidad de que den 100% live incluso, que la bin sea multifuncional o para alguna plataforma en especifico
+
+# Authors
+
+@DewisDK
+@Xeloinn
