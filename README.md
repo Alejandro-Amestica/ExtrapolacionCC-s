@@ -1,4 +1,4 @@
-# ExtrapolacionCC-s
+# ExtrapolacionCC-s FASE BETA
 Bot que hace una extrapolación de tarjeta ocupando distintos metodos
 
 # METODOS
