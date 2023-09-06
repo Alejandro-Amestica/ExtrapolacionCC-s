@@ -1,5 +1,5 @@
 # ExtrapolacionCC-s FASE BETA
-Bot que hace una extrapolación de tarjeta ocupando distintos metodos
+Bot que hace una extrapolación de tarjeta ocupando distintos metodos existentes, actualmente este proyecto esta en fase beta
 
 # METODOS
 Extrapolacion basica: Separara los primeros 6 digitos de nuestra tarjeta y reemplazara los demas digitos en formato x
@@ -23,3 +23,11 @@ Te dejare aqui mi grupo de telegram y que encontraras
 LINK: https://t.me/DKCHATOFICIAL
 
 Encontraras checkers en el grupo, dinamicas de cuentas, cursos gratis de ciberseguridad o mas
+
+# Futuros proyectos
+
+Estamos en la elaboracion de un scrapper de cc's y un checker propio con distintos gatewats
+
+Que es un scrapper?
+
+basicamente un scrapper de cc's guiandonos con el algoritmo de luhn nos otorga unas tarjetas generadas validas donde existe la alta posibilidad de que den 100% live incluso, que la bin sea multifuncional o para alguna plataforma en especifico
