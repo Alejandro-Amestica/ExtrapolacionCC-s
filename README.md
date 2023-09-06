@@ -1,7 +1,7 @@
 # ExtrapolacionCC-s FASE BETA
 Bot que hace una extrapolación de tarjeta ocupando distintos metodos existentes, actualmente este proyecto esta en fase beta
 
-# METODOS
+# METODOS IMPLEMENTADOS
 Extrapolacion basica: Separara los primeros 6 digitos de nuestra tarjeta y reemplazara los demas digitos en formato x
 
 Extrapolacion Similitud: En este se necesitan 2 tipos de tarjetas, basicamente es como el metodo basico solamente cambiando unas cosas si en esas 2 tarjetas coinciden que tienen el mismo numero en la misma casilla se quedara
@@ -22,11 +22,11 @@ y te los separara en archivos txt distintos segun el metodo, cabe recalcar que e
 
 # Grupo de telegram
 
-Te dejare aqui mi grupo de telegram y que encontraras
+Te dejare aqui mi grupo de telegram
 
 LINK: https://t.me/DKCHATOFICIAL
 
-Encontraras checkers en el grupo, dinamicas de cuentas, cursos gratis de ciberseguridad o mas
+En este grupo encontraras checkers de cc's, dinamicas de cuentas, cursos gratis de ciberseguridad, bin's y mas
 
 # Futuros proyectos
 
