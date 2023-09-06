@@ -13,7 +13,7 @@ se necesitaran 2 tarjetas las cuales son expedidas entre 2016 y 2017
 lo que hace es separar en 2 grupos las tarjetas te dejo un link para que puedas entenderlo mejor: https://pastebin.com/yFpRaAcH
 
 # Utilidad de este bot
-Con este bot te hara todos los metodos de extrapolacion que se conocen almenos yo (si falta algun metodo hablarme en telegram a @DewisDK o @GreenDK1)
+Con este bot te hara todos los metodos de extrapolacion que se conocen actualmente (si falta algun metodo hablarme en telegram a @DewisDK o @GreenDK1)
 y te los separara en archivos txt distintos segun el metodo, cabe recalcar que este proyecto esta en fase beta, a futuro se le implementara un menu para escoger los metodos y un verificador de longitud de tarjetas
 
 # Grupo de telegram
@@ -26,7 +26,7 @@ Encontraras checkers en el grupo, dinamicas de cuentas, cursos gratis de ciberse
 
 # Futuros proyectos
 
-Estamos en la elaboracion de un scrapper de cc's y un checker propio con distintos gatewats
+Estamos en la elaboracion de un scrapper de cc's y un checker propio con distintos gateways
 
 Que es un scrapper?
 
